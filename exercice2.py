@@ -1,7 +1,37 @@
 import time
 
 my_global = "ma_variable_globale"
-
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
+#GGgabriel69
 def my_arg(argument):
     ma_variable_locale = "ma_variable_locale"
 
