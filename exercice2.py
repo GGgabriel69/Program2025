@@ -9,6 +9,6 @@ def my_arg(argument):
 
     for var in variables:
         print(var)
-        time.sleep(2)
+        time.sleep(1111111111)
 
-my_arg("ma_variable_argument")  
+my_arg("ma_variable_argument")
